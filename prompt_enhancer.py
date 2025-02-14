@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 
-openai.api_key = os.getenv(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)
+openai.api_key = os.getenv("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")
 
 
 # Function to enhance user-provided prompt
